@@ -1,7 +1,7 @@
 Hi, I’m Isabella Castro
-- I am a 4th year Computer Science Major at the University of Florida
-- I will be graduating in May of 2021
-- I am looking for a full time job as a Software Developer
+- I have a Bachelor of Science in Computer Science 
+- I graduated from the University of Florida in May 2021
+- I am looking for positions as a Software Developer
 - You can reach me at 
 isabellacastro1125@gmail.com
 
