@@ -1,5 +1,5 @@
 Hi, I’m Isabella Castro
-- I have a Bachelor of Science in Computer Science from the University of Florida
+- I have a B.S. in Computer Science from the University of Florida
 - I am currently working as a Software Engineer for CPSI
 - You can reach me at 
 isabellacastro1125@gmail.com
