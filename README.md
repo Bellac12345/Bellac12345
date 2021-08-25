@@ -1,7 +1,6 @@
 Hi, I’m Isabella Castro
-- I have a Bachelor of Science in Computer Science 
-- I graduated from the University of Florida in May 2021
-- I am looking for positions as a Software Developer
+- I have a Bachelor of Science in Computer Science from the University of Florida
+- I am currently working as a Software Engineer for CPSI
 - You can reach me at 
 isabellacastro1125@gmail.com
 
